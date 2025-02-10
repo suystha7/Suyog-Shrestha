@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suyog Shrestha</h1>
-<h3 align="center">A passionate about building dynamic and scalable web applications. With strong skills in front-end development using React, I'm expanding my knowledge of the MERN stack to create full-stack solutions. I’m always learning new technologies to improve performance and user experience, and I’m excited to contribute to innovative projects in web development.</h3>
+<h3 align="left">A passionate about building dynamic and scalable web applications. With strong skills in front-end development using React, I'm expanding my knowledge of the MERN stack to create full-stack solutions. I’m always learning new technologies to improve performance and user experience, and I’m excited to contribute to innovative projects in web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suystha7&label=Profile%20views&color=0e75b6&style=flat" alt="suystha7" /> </p>
 
